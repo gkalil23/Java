@@ -1,5 +1,5 @@
 
-package ExchangeStation.errors;
+package CurrencyConverter.errors;
 
 public class UnknownOperationException extends Exception {
     private String operation;
